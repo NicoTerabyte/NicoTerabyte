@@ -1,4 +1,5 @@
 # Hello I'm NicoTerabyte 🐧🔨
+**`About me`**
 
 <!--
 **NicoTerabyte/NicoTerabyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
