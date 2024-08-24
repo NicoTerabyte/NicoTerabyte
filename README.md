@@ -6,7 +6,7 @@
 
 ## _About me_ 💻
 
-I'm a developer currently studying at 42 School, where I am honing my skills in software development and problem-solving. My focus is on building efficient and innovative solutions through coding and collaboration. Very adaptable and always ready to learn 🚀
+I'm a developer currently studying at 42 School, where I am honing my skills in software development and problem-solving. My focus is on building efficient and innovative solutions through coding and collaboration. I'm very adaptable and always ready to learn 🚀
 
 ---
 
