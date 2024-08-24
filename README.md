@@ -11,3 +11,8 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 ---
 
 ## **Languages and Tools 🧰🛠️**
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoterabyte&theme=radical&show_icons=true)
+
