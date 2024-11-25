@@ -43,7 +43,7 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 
 > 📦 38.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 137 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,5 +109,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2024 01:13:23 UTC
+ Last Updated on 25/11/2024 12:31:48 UTC
 <!--END_SECTION:waka-->
