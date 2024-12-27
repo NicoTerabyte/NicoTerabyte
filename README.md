@@ -43,7 +43,7 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 
 > 📦 38.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 151 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,5 +108,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2024 01:08:31 UTC
+ Last Updated on 27/12/2024 12:28:41 UTC
 <!--END_SECTION:waka-->
