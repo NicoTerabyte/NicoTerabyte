@@ -43,8 +43,6 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 
 > 📦 39.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -108,5 +106,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2025 12:28:26 UTC
+ Last Updated on 25/01/2025 01:03:49 UTC
 <!--END_SECTION:waka-->
