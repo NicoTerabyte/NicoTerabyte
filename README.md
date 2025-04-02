@@ -41,7 +41,7 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 
 **🐱 My GitHub Data** 
 
-> 📦 113.8 kB Used in GitHub's Storage 
+> 📦 114.0 kB Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2025
  > 
@@ -111,5 +111,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2025 12:33:57 UTC
+ Last Updated on 02/04/2025 01:15:13 UTC
 <!--END_SECTION:waka-->
