@@ -37,11 +37,13 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoterabyte&theme=radical&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 118.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 49 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,5 +111,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2025 12:29:06 UTC
+ Last Updated on 07/04/2025 01:16:48 UTC
 <!--END_SECTION:waka-->
