@@ -43,7 +43,7 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 
 > 📦 121.3 kB Used in GitHub's Storage 
  > 
-> 🏆 82 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,5 +107,5 @@ Assembly                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2025 12:35:35 UTC
+ Last Updated on 28/05/2025 01:20:19 UTC
 <!--END_SECTION:waka-->
