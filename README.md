@@ -37,7 +37,7 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoterabyte&theme=radical&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
@@ -106,5 +106,5 @@ Assembly                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2025 12:34:07 UTC
+ Last Updated on 31/05/2025 01:18:20 UTC
 <!--END_SECTION:waka-->
