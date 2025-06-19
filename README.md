@@ -78,16 +78,16 @@ Sunday                   125 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Bash                     8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -103,5 +103,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2025 01:21:41 UTC
+ Last Updated on 19/06/2025 12:35:55 UTC
 <!--END_SECTION:waka-->
