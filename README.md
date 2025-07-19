@@ -37,13 +37,13 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoterabyte&theme=radical&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 116.8 kB Used in GitHub's Storage 
  > 
-> 🏆 242 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,21 +78,16 @@ Sunday                   125 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 44 mins             ██████████████░░░░░░░░░░░   55.39 % 
-Python                   32 mins             ██████████░░░░░░░░░░░░░░░   40.65 % 
-C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   19 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-godotCpp                 47 mins             ███████████████░░░░░░░░░░   58.33 % 
-Librarian_telegram_bot   33 mins             ██████████░░░░░░░░░░░░░░░   41.67 % 
+Librarian_telegram_bot   19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
+Linux                    19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -108,5 +103,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2025 01:23:52 UTC
+ Last Updated on 19/07/2025 12:34:18 UTC
 <!--END_SECTION:waka-->
