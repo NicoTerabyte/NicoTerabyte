@@ -37,7 +37,7 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoterabyte&theme=radical&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,17 +78,17 @@ Sunday                   132 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   16 hrs 54 mins      ████████████████████████░   94.38 % 
-Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Python                   9 hrs 56 mins       ███████████████████████░░   93.55 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-streamlit_learning       17 hrs 55 mins      █████████████████████████   100.00 % 
+streamlit_learning       10 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -104,5 +104,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2025 01:17:35 UTC
+ Last Updated on 20/08/2025 12:35:29 UTC
 <!--END_SECTION:waka-->
