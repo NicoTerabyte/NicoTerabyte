@@ -43,6 +43,8 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 
 > 📦 117.0 kB Used in GitHub's Storage 
  > 
+> 🏆 302 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -76,17 +78,16 @@ Sunday                   132 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   4 hrs 18 mins       ████████████████████████░   96.15 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 28 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-streamlit_learning       4 hrs 28 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 28 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -102,5 +103,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2025 01:17:22 UTC
+ Last Updated on 22/08/2025 12:33:57 UTC
 <!--END_SECTION:waka-->
