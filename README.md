@@ -43,12 +43,53 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 
 > 📦 117.1 kB Used in GitHub's Storage 
  > 
+> 🏆 306 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+🌆 Daytime                598 commits         █████████████░░░░░░░░░░░░   52.46 % 
+🌃 Evening                372 commits         ████████░░░░░░░░░░░░░░░░░   32.63 % 
+🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Tuesday                  229 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Wednesday                217 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Thursday                 175 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Friday                   141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Saturday                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Sunday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -62,5 +103,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2025 01:12:19 UTC
+ Last Updated on 17/09/2025 12:34:33 UTC
 <!--END_SECTION:waka-->
