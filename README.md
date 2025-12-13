@@ -37,7 +37,7 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoterabyte&theme=radical&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,19 +78,19 @@ Sunday                   177 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   5 hrs 58 mins       ███████████████████████░░   92.13 % 
-Protocol Buffer          30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   1 hr 30 mins        ███████████████████████░░   93.85 % 
+Protocol Buffer          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-protobuffer_and_state_mac6 hrs 29 mins       █████████████████████████   100.00 % 
+protobuffer_and_state_mac1 hr 36 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -106,5 +106,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2025 01:19:59 UTC
+ Last Updated on 13/12/2025 12:35:29 UTC
 <!--END_SECTION:waka-->
