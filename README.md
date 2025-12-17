@@ -78,19 +78,16 @@ Sunday                   177 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   1 hr 30 mins        ███████████████████████░░   93.85 % 
-Protocol Buffer          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-protobuffer_and_state_mac1 hr 36 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 36 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -106,5 +103,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2025 01:20:18 UTC
+ Last Updated on 17/12/2025 12:41:07 UTC
 <!--END_SECTION:waka-->
