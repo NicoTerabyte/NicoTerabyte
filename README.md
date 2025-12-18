@@ -78,16 +78,18 @@ Sunday                   177 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   14 mins             ███████████░░░░░░░░░░░░░░   44.55 % 
+HTML                     11 mins             █████████░░░░░░░░░░░░░░░░   35.36 % 
+Markdown                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Bar_daily_menu_site      32 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -103,5 +105,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2025 01:21:11 UTC
+ Last Updated on 18/12/2025 12:39:11 UTC
 <!--END_SECTION:waka-->
