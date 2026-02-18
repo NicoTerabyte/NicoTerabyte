@@ -78,16 +78,18 @@ Sunday                   205 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   16 mins             ███████████████████░░░░░░   76.83 % 
+Docker                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+telegram_bot_for_gaming_s17 mins             █████████████████████░░░░   84.85 % 
+gaming_session_tracker   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -103,5 +105,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2026 01:59:13 UTC
+ Last Updated on 18/02/2026 12:59:45 UTC
 <!--END_SECTION:waka-->
