@@ -47,9 +47,9 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 34 Public Repositories 
  > 
-> 🔑 15 Private Repositories 
+> 🔑 16 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -111,5 +111,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2026 12:51:54 UTC
+ Last Updated on 30/03/2026 02:11:27 UTC
 <!--END_SECTION:waka-->
