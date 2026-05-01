@@ -41,34 +41,34 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 
 **🐱 My GitHub Data** 
 
-> 📦 198.4 kB Used in GitHub's Storage 
+> 📦 362.0 kB Used in GitHub's Storage 
  > 
-> 🏆 111 Contributions in the Year 2026
+> 🏆 124 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
-> 🔑 17 Private Repositories 
+> 🔑 18 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-🌆 Daytime                793 commits         ████████████░░░░░░░░░░░░░   49.56 % 
-🌃 Evening                512 commits         ████████░░░░░░░░░░░░░░░░░   32.00 % 
-🌙 Night                  72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+🌞 Morning                223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+🌆 Daytime                784 commits         ████████████░░░░░░░░░░░░░   48.57 % 
+🌃 Evening                535 commits         ████████░░░░░░░░░░░░░░░░░   33.15 % 
+🌙 Night                  72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   156 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Tuesday                  264 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Wednesday                246 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Thursday                 192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Friday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Saturday                 321 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Sunday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Monday                   156 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Tuesday                  264 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Wednesday                246 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Thursday                 215 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Friday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Saturday                 321 commits         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Sunday                   245 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
 ```
 
 
@@ -90,18 +90,18 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in C** 
+**I Mostly Code in Python** 
 
 ```text
-C                        15 repos            ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-Python                   14 repos            ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Python                   15 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+C                        15 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+C++                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 ```
 
 
 
 
- Last Updated on 30/04/2026 13:50:12 UTC
+ Last Updated on 01/05/2026 02:48:34 UTC
 <!--END_SECTION:waka-->
