@@ -51,6 +51,45 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                233 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+🌆 Daytime                797 commits         ████████████░░░░░░░░░░░░░   48.30 % 
+🌃 Evening                547 commits         ████████░░░░░░░░░░░░░░░░░   33.15 % 
+🌙 Night                  73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Wednesday                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Thursday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Friday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Saturday                 324 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Sunday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -64,5 +103,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2026 14:45:08 UTC
+ Last Updated on 10/06/2026 03:28:18 UTC
 <!--END_SECTION:waka-->
