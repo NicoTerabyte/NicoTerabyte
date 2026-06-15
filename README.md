@@ -37,13 +37,13 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoterabyte&theme=radical&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 365.2 kB Used in GitHub's Storage 
+> 📦 365.7 kB Used in GitHub's Storage 
  > 
-> 🏆 167 Contributions in the Year 2026
+> 🏆 173 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,21 +54,21 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                233 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-🌆 Daytime                801 commits         ████████████░░░░░░░░░░░░░   48.43 % 
-🌃 Evening                547 commits         ████████░░░░░░░░░░░░░░░░░   33.07 % 
-🌙 Night                  73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+🌞 Morning                237 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+🌆 Daytime                803 commits         ████████████░░░░░░░░░░░░░   48.37 % 
+🌃 Evening                547 commits         ████████░░░░░░░░░░░░░░░░░   32.95 % 
+🌙 Night                  73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Wednesday                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Thursday                 222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Friday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Saturday                 324 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Sunday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Wednesday                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Thursday                 222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Saturday                 324 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Sunday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 ```
 
 
@@ -94,14 +94,14 @@ No Activity Tracked This Week
 
 ```text
 Python                   15 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-C++                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+C                        15 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+C++                      9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 15/06/2026 03:58:24 UTC
+ Last Updated on 15/06/2026 17:12:37 UTC
 <!--END_SECTION:waka-->
