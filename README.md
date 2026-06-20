@@ -41,7 +41,7 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 
 **🐱 My GitHub Data** 
 
-> 📦 368.4 kB Used in GitHub's Storage 
+> 📦 368.5 kB Used in GitHub's Storage 
  > 
 > 🏆 181 Contributions in the Year 2026
  > 
@@ -106,5 +106,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2026 15:00:06 UTC
+ Last Updated on 20/06/2026 03:24:55 UTC
 <!--END_SECTION:waka-->
