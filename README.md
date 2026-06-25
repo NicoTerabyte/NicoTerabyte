@@ -78,19 +78,16 @@ Sunday                   250 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   2 hrs 42 mins       ███████████████████████░░   92.80 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-html_visualizer_pyqt     2 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -106,5 +103,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2026 14:25:49 UTC
+ Last Updated on 25/06/2026 02:56:21 UTC
 <!--END_SECTION:waka-->
