@@ -39,7 +39,7 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -111,5 +111,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 02:32:04 UTC
+ Last Updated on 01/08/2026 13:13:53 UTC
 <!--END_SECTION:waka-->
