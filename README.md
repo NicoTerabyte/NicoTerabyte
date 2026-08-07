@@ -37,6 +37,8 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoterabyte&theme=radical&show_icons=true)
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2020%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -51,6 +53,51 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+🌆 Daytime                837 commits         ████████████░░░░░░░░░░░░░   48.78 % 
+🌃 Evening                554 commits         ████████░░░░░░░░░░░░░░░░░   32.28 % 
+🌙 Night                  74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Tuesday                  277 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Wednesday                260 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Thursday                 232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Friday                   182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Saturday                 324 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Sunday                   255 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -64,5 +111,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:31:13 UTC
+ Last Updated on 07/08/2026 12:57:17 UTC
 <!--END_SECTION:waka-->
