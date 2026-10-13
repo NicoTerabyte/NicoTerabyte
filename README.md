@@ -43,7 +43,7 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 
 **🐱 My GitHub Data** 
 
-> 📦 417.8 kB Used in GitHub's Storage 
+> 📦 432.3 kB Used in GitHub's Storage 
  > 
 > 🏆 249 Contributions in the Year 2026
  > 
@@ -111,5 +111,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 20:54:23 UTC
+ Last Updated on 13/10/2026 05:22:26 UTC
 <!--END_SECTION:waka-->
